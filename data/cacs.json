@@ -1,0 +1,1040 @@
+[
+  {
+    "Period": "2011-01-01T03:00:00.000Z",
+    "General": 38.1,
+    "Materials": 37.5,
+    "Labour_Force": 38.8
+  },
+  {
+    "Period": "2011-02-01T03:00:00.000Z",
+    "General": 38.6,
+    "Materials": 38.2,
+    "Labour_Force": 38.9
+  },
+  {
+    "Period": "2011-03-01T03:00:00.000Z",
+    "General": 39,
+    "Materials": 39,
+    "Labour_Force": 38.9
+  },
+  {
+    "Period": "2011-04-01T03:00:00.000Z",
+    "General": 40.5,
+    "Materials": 39.6,
+    "Labour_Force": 41.4
+  },
+  {
+    "Period": "2011-05-01T03:00:00.000Z",
+    "General": 42.8,
+    "Materials": 40.3,
+    "Labour_Force": 45.3
+  },
+  {
+    "Period": "2011-06-01T03:00:00.000Z",
+    "General": 41.2,
+    "Materials": 41,
+    "Labour_Force": 41.3
+  },
+  {
+    "Period": "2011-07-01T03:00:00.000Z",
+    "General": 43.5,
+    "Materials": 41.6,
+    "Labour_Force": 45.4
+  },
+  {
+    "Period": "2011-08-01T03:00:00.000Z",
+    "General": 43.1,
+    "Materials": 42.2,
+    "Labour_Force": 43.9
+  },
+  {
+    "Period": "2011-09-01T03:00:00.000Z",
+    "General": 45,
+    "Materials": 42.5,
+    "Labour_Force": 47.5
+  },
+  {
+    "Period": "2011-10-01T03:00:00.000Z",
+    "General": 45.3,
+    "Materials": 43.1,
+    "Labour_Force": 47.5
+  },
+  {
+    "Period": "2011-11-01T03:00:00.000Z",
+    "General": 45.1,
+    "Materials": 43.7,
+    "Labour_Force": 46.5
+  },
+  {
+    "Period": "2011-12-01T03:00:00.000Z",
+    "General": 45.4,
+    "Materials": 44.3,
+    "Labour_Force": 46.5
+  },
+  {
+    "Period": "2012-01-01T03:00:00.000Z",
+    "General": 47.4,
+    "Materials": 44.8,
+    "Labour_Force": 49.9
+  },
+  {
+    "Period": "2012-02-01T03:00:00.000Z",
+    "General": 47.6,
+    "Materials": 45.3,
+    "Labour_Force": 49.9
+  },
+  {
+    "Period": "2012-03-01T03:00:00.000Z",
+    "General": 47.9,
+    "Materials": 45.8,
+    "Labour_Force": 49.9
+  },
+  {
+    "Period": "2012-04-01T03:00:00.000Z",
+    "General": 48.4,
+    "Materials": 46.6,
+    "Labour_Force": 50.2
+  },
+  {
+    "Period": "2012-05-01T03:00:00.000Z",
+    "General": 47.5,
+    "Materials": 47.4,
+    "Labour_Force": 47.6
+  },
+  {
+    "Period": "2012-06-01T03:00:00.000Z",
+    "General": 53,
+    "Materials": 48.1,
+    "Labour_Force": 57.7
+  },
+  {
+    "Period": "2012-07-01T03:00:00.000Z",
+    "General": 58,
+    "Materials": 48.8,
+    "Labour_Force": 67.1
+  },
+  {
+    "Period": "2012-08-01T03:00:00.000Z",
+    "General": 54.9,
+    "Materials": 49.6,
+    "Labour_Force": 60.2
+  },
+  {
+    "Period": "2012-09-01T03:00:00.000Z",
+    "General": 55.5,
+    "Materials": 50.1,
+    "Labour_Force": 60.7
+  },
+  {
+    "Period": "2012-10-01T03:00:00.000Z",
+    "General": 56,
+    "Materials": 51.1,
+    "Labour_Force": 60.7
+  },
+  {
+    "Period": "2012-11-01T03:00:00.000Z",
+    "General": 56.6,
+    "Materials": 52.4,
+    "Labour_Force": 60.7
+  },
+  {
+    "Period": "2012-12-01T03:00:00.000Z",
+    "General": 57.1,
+    "Materials": 53,
+    "Labour_Force": 61
+  },
+  {
+    "Period": "2013-01-01T03:00:00.000Z",
+    "General": 58.2,
+    "Materials": 54,
+    "Labour_Force": 62.3
+  },
+  {
+    "Period": "2013-02-01T03:00:00.000Z",
+    "General": 58.3,
+    "Materials": 54.6,
+    "Labour_Force": 62
+  },
+  {
+    "Period": "2013-03-01T03:00:00.000Z",
+    "General": 60.1,
+    "Materials": 55.6,
+    "Labour_Force": 64.6
+  },
+  {
+    "Period": "2013-04-01T03:00:00.000Z",
+    "General": 61,
+    "Materials": 56.8,
+    "Labour_Force": 65.1
+  },
+  {
+    "Period": "2013-05-01T03:00:00.000Z",
+    "General": 61.2,
+    "Materials": 58,
+    "Labour_Force": 64.4
+  },
+  {
+    "Period": "2013-06-01T03:00:00.000Z",
+    "General": 67.1,
+    "Materials": 58.9,
+    "Labour_Force": 75
+  },
+  {
+    "Period": "2013-07-01T03:00:00.000Z",
+    "General": 68.1,
+    "Materials": 59.9,
+    "Labour_Force": 76.2
+  },
+  {
+    "Period": "2013-08-01T03:00:00.000Z",
+    "General": 68.7,
+    "Materials": 61.1,
+    "Labour_Force": 76.2
+  },
+  {
+    "Period": "2013-09-01T03:00:00.000Z",
+    "General": 69.1,
+    "Materials": 62.2,
+    "Labour_Force": 76
+  },
+  {
+    "Period": "2013-10-01T03:00:00.000Z",
+    "General": 69.9,
+    "Materials": 63.8,
+    "Labour_Force": 76
+  },
+  {
+    "Period": "2013-11-01T03:00:00.000Z",
+    "General": 71.1,
+    "Materials": 66.2,
+    "Labour_Force": 76
+  },
+  {
+    "Period": "2013-12-01T03:00:00.000Z",
+    "General": 73.8,
+    "Materials": 69.2,
+    "Labour_Force": 78.3
+  },
+  {
+    "Period": "2014-01-01T03:00:00.000Z",
+    "General": 77.1,
+    "Materials": 74.9,
+    "Labour_Force": 79.2
+  },
+  {
+    "Period": "2014-02-01T03:00:00.000Z",
+    "General": 79.1,
+    "Materials": 79.1,
+    "Labour_Force": 79.2
+  },
+  {
+    "Period": "2014-03-01T03:00:00.000Z",
+    "General": 79.8,
+    "Materials": 81.33,
+    "Labour_Force": 78.4
+  },
+  {
+    "Period": "2014-04-01T03:00:00.000Z",
+    "General": 87.4,
+    "Materials": 84.2,
+    "Labour_Force": 90.5
+  },
+  {
+    "Period": "2014-05-01T03:00:00.000Z",
+    "General": 88.3,
+    "Materials": 86.4,
+    "Labour_Force": 90.1
+  },
+  {
+    "Period": "2014-06-01T03:00:00.000Z",
+    "General": 88.9,
+    "Materials": 87.7,
+    "Labour_Force": 90.1
+  },
+  {
+    "Period": "2014-07-01T03:00:00.000Z",
+    "General": 94.6,
+    "Materials": 89.5,
+    "Labour_Force": 99.5
+  },
+  {
+    "Period": "2014-08-01T03:00:00.000Z",
+    "General": 96,
+    "Materials": 92.3,
+    "Labour_Force": 99.7
+  },
+  {
+    "Period": "2014-09-01T03:00:00.000Z",
+    "General": 97,
+    "Materials": 94.4,
+    "Labour_Force": 99.7
+  },
+  {
+    "Period": "2014-10-01T03:00:00.000Z",
+    "General": 98.3,
+    "Materials": 96.7,
+    "Labour_Force": 100
+  },
+  {
+    "Period": "2014-11-01T03:00:00.000Z",
+    "General": 99.5,
+    "Materials": 98.9,
+    "Labour_Force": 100
+  },
+  {
+    "Period": "2014-12-01T03:00:00.000Z",
+    "General": 100,
+    "Materials": 100,
+    "Labour_Force": 100
+  },
+  {
+    "Period": "2015-01-01T03:00:00.000Z",
+    "General": 102.1,
+    "Materials": 101.6,
+    "Labour_Force": 102.7
+  },
+  {
+    "Period": "2015-02-01T03:00:00.000Z",
+    "General": 104.1,
+    "Materials": 103.7,
+    "Labour_Force": 104.6
+  },
+  {
+    "Period": "2015-03-01T03:00:00.000Z",
+    "General": 105.1,
+    "Materials": 104.4,
+    "Labour_Force": 104.6
+  },
+  {
+    "Period": "2015-04-01T03:00:00.000Z",
+    "General": 105.1,
+    "Materials": 107.2,
+    "Labour_Force": 101.9
+  },
+  {
+    "Period": "2015-05-01T03:00:00.000Z",
+    "General": 112.8,
+    "Materials": 109.2,
+    "Labour_Force": 118
+  },
+  {
+    "Period": "2015-06-01T03:00:00.000Z",
+    "General": 120.2,
+    "Materials": 110.7,
+    "Labour_Force": 134.3
+  },
+  {
+    "Period": "2015-07-01T03:00:00.000Z",
+    "General": 114.6,
+    "Materials": 112.2,
+    "Labour_Force": 118.2
+  },
+  {
+    "Period": "2015-08-01T03:00:00.000Z",
+    "General": 120.1,
+    "Materials": 114.4,
+    "Labour_Force": 128.5
+  },
+  {
+    "Period": "2015-09-01T03:00:00.000Z",
+    "General": 121.1,
+    "Materials": 116.1,
+    "Labour_Force": 128.5
+  },
+  {
+    "Period": "2015-10-01T03:00:00.000Z",
+    "General": 122.3,
+    "Materials": 117.9,
+    "Labour_Force": 128.7
+  },
+  {
+    "Period": "2015-11-01T03:00:00.000Z",
+    "General": 124.8,
+    "Materials": 122.1,
+    "Labour_Force": 128.7
+  },
+  {
+    "Period": "2015-12-01T03:00:00.000Z",
+    "General": 131.2,
+    "Materials": 132.3,
+    "Labour_Force": 129.6
+  },
+  {
+    "Period": "2016-01-01T03:00:00.000Z",
+    "General": 135.1,
+    "Materials": 137.4,
+    "Labour_Force": 131.7
+  },
+  {
+    "Period": "2016-02-01T03:00:00.000Z",
+    "General": 138.8,
+    "Materials": 141.8,
+    "Labour_Force": 134.4
+  },
+  {
+    "Period": "2016-03-01T03:00:00.000Z",
+    "General": 140.2,
+    "Materials": 144.1,
+    "Labour_Force": 134.4
+  },
+  {
+    "Period": "2016-04-01T03:00:00.000Z",
+    "General": 151.6,
+    "Materials": 146.8,
+    "Labour_Force": 158.7
+  },
+  {
+    "Period": "2016-05-01T03:00:00.000Z",
+    "General": 153.1,
+    "Materials": 149.1,
+    "Labour_Force": 159
+  },
+  {
+    "Period": "2016-06-01T03:00:00.000Z",
+    "General": 154.4,
+    "Materials": 150.6,
+    "Labour_Force": 159.9
+  },
+  {
+    "Period": "2016-07-01T03:00:00.000Z",
+    "General": 156.4,
+    "Materials": 153.2,
+    "Labour_Force": 161.2
+  },
+  {
+    "Period": "2016-08-01T03:00:00.000Z",
+    "General": 157,
+    "Materials": 154.2,
+    "Labour_Force": 161.2
+  },
+  {
+    "Period": "2016-09-01T03:00:00.000Z",
+    "General": 158.2,
+    "Materials": 156.2,
+    "Labour_Force": 161.2
+  },
+  {
+    "Period": "2016-10-01T03:00:00.000Z",
+    "General": 165.8,
+    "Materials": 158.4,
+    "Labour_Force": 176.6
+  },
+  {
+    "Period": "2016-11-01T03:00:00.000Z",
+    "General": 167.4,
+    "Materials": 161.1,
+    "Labour_Force": 176.6
+  },
+  {
+    "Period": "2016-12-01T03:00:00.000Z",
+    "General": 171.3,
+    "Materials": 163.6,
+    "Labour_Force": 182.6
+  },
+  {
+    "Period": "2017-01-01T03:00:00.000Z",
+    "General": 178.3,
+    "Materials": 167.8,
+    "Labour_Force": 193.6
+  },
+  {
+    "Period": "2017-02-01T03:00:00.000Z",
+    "General": 179,
+    "Materials": 169,
+    "Labour_Force": 193.6
+  },
+  {
+    "Period": "2017-03-01T03:00:00.000Z",
+    "General": 180,
+    "Materials": 170.7,
+    "Labour_Force": 193.6
+  },
+  {
+    "Period": "2017-04-01T03:00:00.000Z",
+    "General": 187.3,
+    "Materials": 173.2,
+    "Labour_Force": 207.9
+  },
+  {
+    "Period": "2017-05-01T03:00:00.000Z",
+    "General": 189.4,
+    "Materials": 176,
+    "Labour_Force": 209.2
+  },
+  {
+    "Period": "2017-06-01T03:00:00.000Z",
+    "General": 191.2,
+    "Materials": 179,
+    "Labour_Force": 209.2
+  },
+  {
+    "Period": "2017-07-01T03:00:00.000Z",
+    "General": 202.2,
+    "Materials": 184.5,
+    "Labour_Force": 228.1
+  },
+  {
+    "Period": "2017-08-01T03:00:00.000Z",
+    "General": 204.5,
+    "Materials": 188.4,
+    "Labour_Force": 228.1
+  },
+  {
+    "Period": "2017-09-01T03:00:00.000Z",
+    "General": 206.2,
+    "Materials": 191.3,
+    "Labour_Force": 228.1
+  },
+  {
+    "Period": "2017-10-01T03:00:00.000Z",
+    "General": 208,
+    "Materials": 194.2,
+    "Labour_Force": 228.1
+  },
+  {
+    "Period": "2017-11-01T03:00:00.000Z",
+    "General": 210.1,
+    "Materials": 197.8,
+    "Labour_Force": 228.1
+  },
+  {
+    "Period": "2017-12-01T03:00:00.000Z",
+    "General": 212.7,
+    "Materials": 202.2,
+    "Labour_Force": 228.1
+  },
+  {
+    "Period": "2018-01-01T03:00:00.000Z",
+    "General": 220.2,
+    "Materials": 209.4,
+    "Labour_Force": 236.1
+  },
+  {
+    "Period": "2018-02-01T03:00:00.000Z",
+    "General": 224.3,
+    "Materials": 214.1,
+    "Labour_Force": 239.3
+  },
+  {
+    "Period": "2018-03-01T03:00:00.000Z",
+    "General": 229.8,
+    "Materials": 220.7,
+    "Labour_Force": 243.2
+  },
+  {
+    "Period": "2018-04-01T03:00:00.000Z",
+    "General": 239.6,
+    "Materials": 227.7,
+    "Labour_Force": 257.1
+  },
+  {
+    "Period": "2018-05-01T03:00:00.000Z",
+    "General": 248.5,
+    "Materials": 242.7,
+    "Labour_Force": 257.1
+  },
+  {
+    "Period": "2018-06-01T03:00:00.000Z",
+    "General": 259.4,
+    "Materials": 260.6,
+    "Labour_Force": 257.5
+  },
+  {
+    "Period": "2018-07-01T03:00:00.000Z",
+    "General": 264.4,
+    "Materials": 268.4,
+    "Labour_Force": 258.5
+  },
+  {
+    "Period": "2018-08-01T03:00:00.000Z",
+    "General": 283.6,
+    "Materials": 291.1,
+    "Labour_Force": 272.6
+  },
+  {
+    "Period": "2018-09-01T03:00:00.000Z",
+    "General": 305.1,
+    "Materials": 319.4,
+    "Labour_Force": 284.2
+  },
+  {
+    "Period": "2018-10-01T03:00:00.000Z",
+    "General": 311.5,
+    "Materials": 330,
+    "Labour_Force": 284.5
+  },
+  {
+    "Period": "2018-11-01T03:00:00.000Z",
+    "General": 323.7,
+    "Materials": 338.7,
+    "Labour_Force": 301.7
+  },
+  {
+    "Period": "2018-12-01T03:00:00.000Z",
+    "General": 331.5,
+    "Materials": 344.5,
+    "Labour_Force": 312.5
+  },
+  {
+    "Period": "2019-01-01T03:00:00.000Z",
+    "General": 339.3,
+    "Materials": 353.6,
+    "Labour_Force": 318.2
+  },
+  {
+    "Period": "2019-02-01T03:00:00.000Z",
+    "General": 346.1,
+    "Materials": 364.3,
+    "Labour_Force": 319.3
+  },
+  {
+    "Period": "2019-03-01T03:00:00.000Z",
+    "General": 361,
+    "Materials": 382,
+    "Labour_Force": 330.1
+  },
+  {
+    "Period": "2019-04-01T03:00:00.000Z",
+    "General": 381.5,
+    "Materials": 394.8,
+    "Labour_Force": 361.9
+  },
+  {
+    "Period": "2019-05-01T03:00:00.000Z",
+    "General": 395.6,
+    "Materials": 404.8,
+    "Labour_Force": 382.3
+  },
+  {
+    "Period": "2019-06-01T03:00:00.000Z",
+    "General": 400.9,
+    "Materials": 413.5,
+    "Labour_Force": 382.4
+  },
+  {
+    "Period": "2019-07-01T03:00:00.000Z",
+    "General": 410.7,
+    "Materials": 418.7,
+    "Labour_Force": 398.9
+  },
+  {
+    "Period": "2019-08-01T03:00:00.000Z",
+    "General": 453.4,
+    "Materials": 480.9,
+    "Labour_Force": 412.9
+  },
+  {
+    "Period": "2019-09-01T03:00:00.000Z",
+    "General": 459,
+    "Materials": 490.5,
+    "Labour_Force": 412.9
+  },
+  {
+    "Period": "2019-10-01T03:00:00.000Z",
+    "General": 486.4,
+    "Materials": 515.1,
+    "Labour_Force": 444.2
+  },
+  {
+    "Period": "2019-11-01T03:00:00.000Z",
+    "General": 507.4,
+    "Materials": 532.8,
+    "Labour_Force": 470.2
+  },
+  {
+    "Period": "2019-12-01T03:00:00.000Z",
+    "General": 513.1,
+    "Materials": 542.4,
+    "Labour_Force": 470.2
+  },
+  {
+    "Period": "2020-01-01T03:00:00.000Z",
+    "General": 539.6,
+    "Materials": 552.4,
+    "Labour_Force": 520.7
+  },
+  {
+    "Period": "2020-02-01T03:00:00.000Z",
+    "General": 560.2,
+    "Materials": 564.6,
+    "Labour_Force": 553.7
+  },
+  {
+    "Period": "2020-03-01T03:00:00.000Z",
+    "General": 565.3,
+    "Materials": 575.9,
+    "Labour_Force": 554.1
+  },
+  {
+    "Period": "2020-04-01T03:00:00.000Z",
+    "General": 573,
+    "Materials": 584.6,
+    "Labour_Force": 556
+  },
+  {
+    "Period": "2020-05-01T03:00:00.000Z",
+    "General": 588.1,
+    "Materials": 606.9,
+    "Labour_Force": 560.5
+  },
+  {
+    "Period": "2020-06-01T03:00:00.000Z",
+    "General": 598.6,
+    "Materials": 624,
+    "Labour_Force": 561.3
+  },
+  {
+    "Period": "2020-07-01T03:00:00.000Z",
+    "General": 615.2,
+    "Materials": 651.8,
+    "Labour_Force": 561.6
+  },
+  {
+    "Period": "2020-08-01T03:00:00.000Z",
+    "General": 631.5,
+    "Materials": 679.3,
+    "Labour_Force": 561.6
+  },
+  {
+    "Period": "2020-09-01T03:00:00.000Z",
+    "General": 655.8,
+    "Materials": 717.6,
+    "Labour_Force": 565.2
+  },
+  {
+    "Period": "2020-10-01T03:00:00.000Z",
+    "General": 695.1,
+    "Materials": 780.8,
+    "Labour_Force": 569.8
+  },
+  {
+    "Period": "2020-11-01T03:00:00.000Z",
+    "General": 763.4,
+    "Materials": 833,
+    "Labour_Force": 661.4
+  },
+  {
+    "Period": "2020-12-01T03:00:00.000Z",
+    "General": 794.4,
+    "Materials": 884.8,
+    "Labour_Force": 662
+  },
+  {
+    "Period": "2021-01-01T03:00:00.000Z",
+    "General": 824.9,
+    "Materials": 936.1,
+    "Labour_Force": 662
+  },
+  {
+    "Period": "2021-02-01T03:00:00.000Z",
+    "General": 872.7,
+    "Materials": 987.4,
+    "Labour_Force": 704.7
+  },
+  {
+    "Period": "2021-03-01T03:00:00.000Z",
+    "General": 896.7,
+    "Materials": 1027.5,
+    "Labour_Force": 704.9
+  },
+  {
+    "Period": "2021-04-01T03:00:00.000Z",
+    "General": 959.1,
+    "Materials": 1074.2,
+    "Labour_Force": 790.3
+  },
+  {
+    "Period": "2021-05-01T03:00:00.000Z",
+    "General": 988.4,
+    "Materials": 1122.3,
+    "Labour_Force": 792.2
+  },
+  {
+    "Period": "2021-06-01T03:00:00.000Z",
+    "General": 1011.3,
+    "Materials": 1160.8,
+    "Labour_Force": 792.3
+  },
+  {
+    "Period": "2021-07-01T03:00:00.000Z",
+    "General": 1065.8,
+    "Materials": 1205.2,
+    "Labour_Force": 861.4
+  },
+  {
+    "Period": "2021-08-01T03:00:00.000Z",
+    "General": 1089.8,
+    "Materials": 1245.7,
+    "Labour_Force": 861.4
+  },
+  {
+    "Period": "2021-09-01T03:00:00.000Z",
+    "General": 1131.2,
+    "Materials": 1291.8,
+    "Labour_Force": 895.9
+  },
+  {
+    "Period": "2021-10-01T03:00:00.000Z",
+    "General": 1180.2,
+    "Materials": 1341.5,
+    "Labour_Force": 943.6
+  },
+  {
+    "Period": "2021-11-01T03:00:00.000Z",
+    "General": 1210,
+    "Materials": 1391.6,
+    "Labour_Force": 943.6
+  },
+  {
+    "Period": "2021-12-01T03:00:00.000Z",
+    "General": 1234.3,
+    "Materials": 1431.9,
+    "Labour_Force": 944.9
+  },
+  {
+    "Period": "2022-01-01T03:00:00.000Z",
+    "General": 1281.5,
+    "Materials": 1487.1,
+    "Labour_Force": 980.2
+  },
+  {
+    "Period": "2022-02-01T03:00:00.000Z",
+    "General": 1344.5,
+    "Materials": 1545.8,
+    "Labour_Force": 1049.4
+  },
+  {
+    "Period": "2022-03-01T03:00:00.000Z",
+    "General": 1416.2,
+    "Materials": 1624.6,
+    "Labour_Force": 1110.7
+  },
+  {
+    "Period": "2022-04-01T03:00:00.000Z",
+    "General": 1467.2,
+    "Materials": 1709.9,
+    "Labour_Force": 1111.5
+  },
+  {
+    "Period": "2022-05-01T03:00:00.000Z",
+    "General": 1563.9,
+    "Materials": 1801.7,
+    "Labour_Force": 1215.2
+  },
+  {
+    "Period": "2022-06-01T03:00:00.000Z",
+    "General": 1670.2,
+    "Materials": 1907.4,
+    "Labour_Force": 1322.6
+  },
+  {
+    "Period": "2022-07-01T03:00:00.000Z",
+    "General": 1784,
+    "Materials": 2098.7,
+    "Labour_Force": 1322.6
+  },
+  {
+    "Period": "2022-08-01T03:00:00.000Z",
+    "General": 1905.9,
+    "Materials": 2245.6,
+    "Labour_Force": 1407.9
+  },
+  {
+    "Period": "2022-09-01T03:00:00.000Z",
+    "General": 2051.9,
+    "Materials": 2399.4,
+    "Labour_Force": 1541.9
+  },
+  {
+    "Period": "2022-10-01T03:00:00.000Z",
+    "General": 2211.9,
+    "Materials": 2573,
+    "Labour_Force": 1682.6
+  },
+  {
+    "Period": "2022-11-01T03:00:00.000Z",
+    "General": 2369.7,
+    "Materials": 2747.7,
+    "Labour_Force": 1815.7
+  },
+  {
+    "Period": "2022-12-01T03:00:00.000Z",
+    "General": 2552.3,
+    "Materials": 2933.6,
+    "Labour_Force": 1993.4
+  },
+  {
+    "Period": "2023-01-01T03:00:00.000Z",
+    "General": 2713.1,
+    "Materials": 3118.8,
+    "Labour_Force": 2125.6
+  },
+  {
+    "Period": "2023-02-01T03:00:00.000Z",
+    "General": 2865.3,
+    "Materials": 3276.5,
+    "Labour_Force": 2262.7
+  },
+  {
+    "Period": "2023-03-01T03:00:00.000Z",
+    "General": 2998.7,
+    "Materials": 3482.1,
+    "Labour_Force": 2290.2
+  },
+  {
+    "Period": "2023-04-01T03:00:00.000Z",
+    "General": 3228.5,
+    "Materials": 3740.9,
+    "Labour_Force": 2477.5
+  },
+  {
+    "Period": "2023-05-01T03:00:00.000Z",
+    "General": 3448.3,
+    "Materials": 3985.6,
+    "Labour_Force": 2660.9
+  },
+  {
+    "Period": "2023-06-01T03:00:00.000Z",
+    "General": 3662.2,
+    "Materials": 4282.6,
+    "Labour_Force": 2752.8
+  },
+  {
+    "Period": "2023-07-01T03:00:00.000Z",
+    "General": 4001.9,
+    "Materials": 4678.3,
+    "Labour_Force": 3010.5
+  },
+  {
+    "Period": "2023-08-01T03:00:00.000Z",
+    "General": 4789.7,
+    "Materials": 5707.8,
+    "Labour_Force": 3444.1
+  },
+  {
+    "Period": "2023-09-01T03:00:00.000Z",
+    "General": 5215.9,
+    "Materials": 6219.5,
+    "Labour_Force": 3744.9
+  },
+  {
+    "Period": "2023-10-01T03:00:00.000Z",
+    "General": 5790,
+    "Materials": 6979.6,
+    "Labour_Force": 4046.5
+  },
+  {
+    "Period": "2023-11-01T03:00:00.000Z",
+    "General": 6785.2,
+    "Materials": 8345.6,
+    "Labour_Force": 4498
+  },
+  {
+    "Period": "2023-12-01T03:00:00.000Z",
+    "General": 9049.8,
+    "Materials": 11806.7,
+    "Labour_Force": 5009
+  },
+  {
+    "Period": "2024-01-01T03:00:00.000Z",
+    "General": 10331,
+    "Materials": 13277.8,
+    "Labour_Force": 6011.7
+  },
+  {
+    "Period": "2024-02-01T03:00:00.000Z",
+    "General": 11228.3,
+    "Materials": 14214.4,
+    "Labour_Force": 6851.6
+  },
+  {
+    "Period": "2024-03-01T03:00:00.000Z",
+    "General": 11669,
+    "Materials": 14955.8,
+    "Labour_Force": 6851.6
+  },
+  {
+    "Period": "2024-04-01T03:00:00.000Z",
+    "General": 12216.2,
+    "Materials": 15226.8,
+    "Labour_Force": 7803.5
+  },
+  {
+    "Period": "2024-05-01T03:00:00.000Z",
+    "General": 12747.4,
+    "Materials": 15537.5,
+    "Labour_Force": 8657.9
+  },
+  {
+    "Period": "2024-06-01T03:00:00.000Z",
+    "General": 13295.8,
+    "Materials": 15811.7,
+    "Labour_Force": 9608.3
+  },
+  {
+    "Period": "2024-07-01T03:00:00.000Z",
+    "General": 13574.8,
+    "Materials": 16281,
+    "Labour_Force": 9608.3
+  },
+  {
+    "Period": "2024-08-01T03:00:00.000Z",
+    "General": 14017.6,
+    "Materials": 16700.7,
+    "Labour_Force": 10084.9
+  },
+  {
+    "Period": "2024-09-01T03:00:00.000Z",
+    "General": 14366.9,
+    "Materials": 17016.6,
+    "Labour_Force": 10483.3
+  },
+  {
+    "Period": "2024-10-01T03:00:00.000Z",
+    "General": 14614.9,
+    "Materials": 17149.9,
+    "Labour_Force": 10899.2
+  },
+  {
+    "Period": "2024-11-01T03:00:00.000Z",
+    "General": 15043,
+    "Materials": 17375.7,
+    "Labour_Force": 11624.1
+  },
+  {
+    "Period": "2024-12-01T03:00:00.000Z",
+    "General": 15356.4,
+    "Materials": 17585.1,
+    "Labour_Force": 12089.7
+  },
+  {
+    "Period": "2025-01-01T03:00:00.000Z",
+    "General": 15592.5,
+    "Materials": 17825.2,
+    "Labour_Force": 12319.9
+  },
+  {
+    "Period": "2025-02-01T03:00:00.000Z",
+    "General": 15852.4,
+    "Materials": 17967.5,
+    "Labour_Force": 12752.3
+  },
+  {
+    "Period": "2025-03-01T03:00:00.000Z",
+    "General": 15995.4,
+    "Materials": 18122.5,
+    "Labour_Force": 12877.8
+  },
+  {
+    "Period": "2025-04-01T03:00:00.000Z",
+    "General": 16253.5,
+    "Materials": 18640.1,
+    "Labour_Force": 12755.3
+  },
+  {
+    "Period": "2025-05-01T03:00:00.000Z",
+    "General": 16521.3,
+    "Materials": 18695.2,
+    "Labour_Force": 13334.9
+  }
+]
