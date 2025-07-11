@@ -1,0 +1,292 @@
+[
+  {
+    "Date": "1991-02-05T02:00:00.000Z",
+    "Event": "Roque Fern?ndez",
+    "Type": "bcra"
+  },
+  {
+    "Date": "1991-04-01T03:00:00.000Z",
+    "Event": "Domingo Cavallo",
+    "Type": "econ"
+  },
+  {
+    "Date": "1995-08-08T03:00:00.000Z",
+    "Event": "Carlos Sa?l Menem",
+    "Type": "pres"
+  },
+  {
+    "Date": "1996-08-05T03:00:00.000Z",
+    "Event": "Pedro Pou",
+    "Type": "bcra"
+  },
+  {
+    "Date": "1996-08-06T03:00:00.000Z",
+    "Event": "Roque Fern?ndez",
+    "Type": "econ"
+  },
+  {
+    "Date": "1999-12-10T03:00:00.000Z",
+    "Event": "Jos? Luis Machinea",
+    "Type": "econ"
+  },
+  {
+    "Date": "1999-12-10T03:00:00.000Z",
+    "Event": "Fernando De la R?a",
+    "Type": "pres"
+  },
+  {
+    "Date": "2001-03-05T03:00:00.000Z",
+    "Event": "Ricardo L?pez Murphy",
+    "Type": "econ"
+  },
+  {
+    "Date": "2001-03-20T03:00:00.000Z",
+    "Event": "Domingo Cavallo",
+    "Type": "econ"
+  },
+  {
+    "Date": "2001-04-25T03:00:00.000Z",
+    "Event": "Roque Maccarone",
+    "Type": "bcra"
+  },
+  {
+    "Date": "2001-12-03T03:00:00.000Z",
+    "Event": "Corralito",
+    "Type": "misc"
+  },
+  {
+    "Date": "2001-12-21T03:00:00.000Z",
+    "Event": "Jorge Capitanich",
+    "Type": "econ"
+  },
+  {
+    "Date": "2001-12-21T03:00:00.000Z",
+    "Event": "Ram?n Puerta",
+    "Type": "pres"
+  },
+  {
+    "Date": "2001-12-23T03:00:00.000Z",
+    "Event": "Rodolfo Frigeri",
+    "Type": "fina"
+  },
+  {
+    "Date": "2001-12-23T03:00:00.000Z",
+    "Event": "Adolfo Rodr?guez Sa?",
+    "Type": "pres"
+  },
+  {
+    "Date": "2002-01-02T03:00:00.000Z",
+    "Event": "Eduardo Duhalde",
+    "Type": "pres"
+  },
+  {
+    "Date": "2002-01-03T03:00:00.000Z",
+    "Event": "Jorge Remes Lenicov",
+    "Type": "econ"
+  },
+  {
+    "Date": "2002-01-06T03:00:00.000Z",
+    "Event": "Fin de la Convertibilidad",
+    "Type": "misc"
+  },
+  {
+    "Date": "2002-01-21T03:00:00.000Z",
+    "Event": "Mario Blejer",
+    "Type": "bcra"
+  },
+  {
+    "Date": "2002-04-27T03:00:00.000Z",
+    "Event": "Roberto Lavagna",
+    "Type": "econ"
+  },
+  {
+    "Date": "2002-07-01T03:00:00.000Z",
+    "Event": "Aldo Pignanelli",
+    "Type": "bcra"
+  },
+  {
+    "Date": "2002-12-02T03:00:00.000Z",
+    "Event": "Fin del Corralito",
+    "Type": "misc"
+  },
+  {
+    "Date": "2002-12-11T03:00:00.000Z",
+    "Event": "Alfonso Prat-Gay",
+    "Type": "bcra"
+  },
+  {
+    "Date": "2002-12-11T03:00:00.000Z",
+    "Event": "Alfonso Prat-Gay",
+    "Type": "bcra"
+  },
+  {
+    "Date": "2003-05-25T03:00:00.000Z",
+    "Event": "N?stor Kirchner",
+    "Type": "pres"
+  },
+  {
+    "Date": "2004-09-24T03:00:00.000Z",
+    "Event": "Hern?n Mart?n P?rez Redrado",
+    "Type": "bcra"
+  },
+  {
+    "Date": "2005-11-28T03:00:00.000Z",
+    "Event": "Felisa Miceli",
+    "Type": "econ"
+  },
+  {
+    "Date": "2007-01-16T03:00:00.000Z",
+    "Event": "Intervenci?n del INDEC",
+    "Type": "misc"
+  },
+  {
+    "Date": "2007-07-17T03:00:00.000Z",
+    "Event": "Miguel Peirano",
+    "Type": "econ"
+  },
+  {
+    "Date": "2007-12-10T03:00:00.000Z",
+    "Event": "Mart?n Lousteau",
+    "Type": "econ"
+  },
+  {
+    "Date": "2007-12-10T03:00:00.000Z",
+    "Event": "Cristina Fern?ndez de Kirchner",
+    "Type": "pres"
+  },
+  {
+    "Date": "2008-04-25T03:00:00.000Z",
+    "Event": "Carlos Fern?ndez",
+    "Type": "econ"
+  },
+  {
+    "Date": "2009-07-08T03:00:00.000Z",
+    "Event": "Amado Boudou",
+    "Type": "econ"
+  },
+  {
+    "Date": "2010-02-03T03:00:00.000Z",
+    "Event": "Mercedes Marc? Del Pont",
+    "Type": "bcra"
+  },
+  {
+    "Date": "2011-12-10T03:00:00.000Z",
+    "Event": "Hern?n Lorenzino",
+    "Type": "econ"
+  },
+  {
+    "Date": "2011-12-10T03:00:00.000Z",
+    "Event": "Cristina Fern?ndez de Kirchner",
+    "Type": "pres"
+  },
+  {
+    "Date": "2012-08-13T03:00:00.000Z",
+    "Event": "Cepo al Dolar",
+    "Type": "misc"
+  },
+  {
+    "Date": "2013-11-18T03:00:00.000Z",
+    "Event": "Juan Carlos F?brega",
+    "Type": "bcra"
+  },
+  {
+    "Date": "2013-11-18T03:00:00.000Z",
+    "Event": "Axel Kicillof",
+    "Type": "econ"
+  },
+  {
+    "Date": "2014-10-01T03:00:00.000Z",
+    "Event": "Alejandro Vanoli",
+    "Type": "bcra"
+  },
+  {
+    "Date": "2015-12-10T03:00:00.000Z",
+    "Event": "Federico Sturzenegger",
+    "Type": "bcra"
+  },
+  {
+    "Date": "2015-12-10T03:00:00.000Z",
+    "Event": "Alfonso Prat-Gay",
+    "Type": "fina"
+  },
+  {
+    "Date": "2015-12-10T03:00:00.000Z",
+    "Event": "Mauricio Macri",
+    "Type": "pres"
+  },
+  {
+    "Date": "2015-12-17T03:00:00.000Z",
+    "Event": "Levantamiento del Cepo al Dolar",
+    "Type": "misc"
+  },
+  {
+    "Date": "2017-01-10T03:00:00.000Z",
+    "Event": "Luis Caputo",
+    "Type": "fina"
+  },
+  {
+    "Date": "2017-01-10T03:00:00.000Z",
+    "Event": "Nicolas Dujovne",
+    "Type": "trea"
+  },
+  {
+    "Date": "2018-06-14T03:00:00.000Z",
+    "Event": "Luis Caputo",
+    "Type": "bcra"
+  },
+  {
+    "Date": "2018-09-25T03:00:00.000Z",
+    "Event": "Guido Sandleris",
+    "Type": "bcra"
+  },
+  {
+    "Date": "2019-07-01T03:00:00.000Z",
+    "Event": "Hern?n Lacunza",
+    "Type": "trea"
+  },
+  {
+    "Date": "2019-09-01T03:00:00.000Z",
+    "Event": "Cepo al Dollar",
+    "Type": "misc"
+  },
+  {
+    "Date": "2019-12-10T03:00:00.000Z",
+    "Event": "Miguel ?ngel Pesce",
+    "Type": "bcra"
+  },
+  {
+    "Date": "2019-12-10T03:00:00.000Z",
+    "Event": "Mart?n Guzm?n",
+    "Type": "econ"
+  },
+  {
+    "Date": "2019-12-10T03:00:00.000Z",
+    "Event": "Alberto Fern?ndez",
+    "Type": "pres"
+  },
+  {
+    "Date": "2022-07-04T03:00:00.000Z",
+    "Event": "Silvina Batakis",
+    "Type": "econ"
+  },
+  {
+    "Date": "2022-07-28T03:00:00.000Z",
+    "Event": "Sergio Massa",
+    "Type": "econ"
+  },
+  {
+    "Date": "2023-12-10T03:00:00.000Z",
+    "Event": "Santiago Bausili",
+    "Type": "bcra"
+  },
+  {
+    "Date": "2023-12-10T03:00:00.000Z",
+    "Event": "Luis Caputo",
+    "Type": "econ"
+  },
+  {
+    "Date": "2023-12-10T03:00:00.000Z",
+    "Event": "Javier Milei",
+    "Type": "pres"
+  }
+]
