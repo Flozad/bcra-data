@@ -1036,5 +1036,11 @@
     "General": 16521.3,
     "Materials": 18695.2,
     "Labour_Force": 13334.9
+  },
+  {
+    "Period": "2025-06-01T03:00:00.000Z",
+    "General": 16643.4,
+    "Materials": 18826.5,
+    "Labour_Force": 13443.5
   }
 ]
